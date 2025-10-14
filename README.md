@@ -14,15 +14,17 @@ Sl .no	Apparatus	Range	Type	Quantity
 5	Rheostat		Wire wouned	1
 6	Connecting wires	-	-	As required
 
-Fuse rating calculation for field and armature:
+![beee3](https://github.com/user-attachments/assets/20819bca-fdc7-42fb-8af2-2c94d250241d)
+![beee31](https://github.com/user-attachments/assets/d2987d4a-2bf4-40d6-8027-2e49e692ba13)
+![beee32](https://github.com/user-attachments/assets/6aacdb03-ab58-4916-b6dc-ecb5e64c26a3)
+![beee33](https://github.com/user-attachments/assets/ba6e7492-f621-4099-88cd-37415777d133)
+![beee34](https://github.com/user-attachments/assets/35461e59-8fe0-4f7b-b0d8-bdd5e6b24141)
 
-No load test
+##OUTPUT:
 
-10 % of rated current (full load current)
+![beee3-1](https://github.com/user-attachments/assets/c2a013b4-a1a0-4767-8d03-676ae18a3a53)
+![beee3-2](https://github.com/user-attachments/assets/9328a3fe-26ce-432c-9537-5e9bd4a53aff)
 
-Load test
-
-125 % of rated current (full load current)
 
 Precautions
 
