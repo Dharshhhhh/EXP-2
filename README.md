@@ -52,6 +52,5 @@ Tabulation for Open Circuit Test
 ![beee3-2](https://github.com/user-attachments/assets/9328a3fe-26ce-432c-9537-5e9bd4a53aff)
 
 
- 
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
